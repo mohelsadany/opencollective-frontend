@@ -223,7 +223,7 @@
   "collective.create.button": "Create Collective",
   "collective.create.connectedAccounts.paypal.description": "Conecte una cuenta de PayPal para pagar los gastos con un solo clic. Para obtener instrucciones sobre cómo conectarse a PayPal, por favor, <a>lea nuestra documentación</a>.",
   "collective.create.connectedAccounts.stripe.description": "Conectar una cuenta de Stripe para comenzar a recibir donaciones.",
-  "collective.create.connectedAccounts.transferwise.description": "Conecte una cuenta de TransferWise para pagar los gastos con un solo clic. Para obtener instrucciones sobre cómo conectarse a TransferWise, por favor, <a>lea nuestra documentación</a>.",
+  "collective.create.connectedAccounts.transferwise.description": "Connect a TransferWise account to pay expenses with one click.",
   "collective.create.createOrSignIn": "Cree una cuenta (o inicie sesión) para crear un colectivo.",
   "collective.create.join": "Únase a Open Collective",
   "collective.created": "Tu colecta ha sido registrada con éxito.",

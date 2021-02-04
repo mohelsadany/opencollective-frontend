@@ -223,7 +223,7 @@
   "collective.create.button": "Create Collective",
   "collective.create.connectedAccounts.paypal.description": "Connect a PayPal account to pay expenses with one click. For instructions on how to connect to PayPal, please, <a>read our documentation</a>.",
   "collective.create.connectedAccounts.stripe.description": "Подключите Stripe-аккаунт, чтобы начать принимать финансовые вклады.",
-  "collective.create.connectedAccounts.transferwise.description": "Connect a TransferWise account to pay expenses with one click. For instructions on how to connect to TransferWise, please, <a>read our documentation</a>.",
+  "collective.create.connectedAccounts.transferwise.description": "Connect a TransferWise account to pay expenses with one click.",
   "collective.create.createOrSignIn": "Создайте аккаунт (или войдите) чтобы создать общество.",
   "collective.create.join": "Присоединяйтесь к Open Collective",
   "collective.created": "Ваш коллектив успешно создан.",

@@ -223,7 +223,7 @@
   "collective.create.button": "コレクティブを作る",
   "collective.create.connectedAccounts.paypal.description": "PayPalアカウントにワンクリックで経費を支払うことができます。PayPalへの接続方法については、 <a>ドキュメント</a>をご覧ください。",
   "collective.create.connectedAccounts.stripe.description": "Stripe アカウントを連携して財政貢献を受け付ける。",
-  "collective.create.connectedAccounts.transferwise.description": "TransferWiseアカウントにワンクリックで経費を支払うことができます。TransferWiseへの接続方法については、 <a>ドキュメント</a>をご覧ください。",
+  "collective.create.connectedAccounts.transferwise.description": "Connect a TransferWise account to pay expenses with one click.",
   "collective.create.createOrSignIn": "Create an account (or sign in) to start a collective.",
   "collective.create.join": "Open Collectiveに参加",
   "collective.created": "コレクティブの作成に成功しました。",
